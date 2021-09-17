@@ -1,4 +1,4 @@
-% ví dụ 3
+% Ví dụ 1
 % thiết lập ban đầu:
 clear all; close all; clc;
 % khai báo biến:
@@ -21,6 +21,3 @@ B = [F+m*l*sin(theta)*theta_dot^2;m*g*sin(theta)];
 X = A\B;
 x_2_dot = X(1,1)
 theta_2_dot = X(2,1)
-
-
-
