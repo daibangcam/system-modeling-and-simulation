@@ -27,3 +27,9 @@ vidu_3.slx        --> mô phỏng ví dụ 3 với matlab r2021a
 vidu_3_m2014a.slx --> mô phỏng ví dụ 3 với matlab r2014a
 
 vidu_3_plot.m     --> code vẽ plot ví dụ 3
+
+vidu_4.slx        --> mô phỏng ví dụ 4 với matlab r2021a
+
+vidu_4_m2014a.slx --> mô phỏng ví dụ 4 với matlab r2014a
+
+vidu_4_plot.m     --> code vẽ plot ví dụ 4
