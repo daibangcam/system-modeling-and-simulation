@@ -35,3 +35,13 @@ simulation_ex_3_plot.m     --> vẽ plot kết quả mô phỏng hệ xe con l�
 simulation_ex_4.slx        --> mô phỏng hệ bồn nước đơn
 
 simulation_ex_4_plot.m     --> vẽ plot kết quả mô phỏng bồn nước đơn
+
+## Demo
+
+Watch it on [YouTube](https://www.youtube.com/c/hano_tran)
+
+[Hướng dẫn mô phỏng hệ xe con lắc ngược trên matlab R2018b](https://youtu.be/0lgdyfLtFF0)
+
+[Hướng dẫn mô phỏng hệ xe con lắc ngược trên matlab R2010b](https://youtu.be/IroJ-mVy48Q)
+
+[Hướng dẫn mô phỏng hệ bồn nước đơn Single Tank](https://youtu.be/xm8dW1zwEZc)
