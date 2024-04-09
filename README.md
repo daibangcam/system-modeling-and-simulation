@@ -4,11 +4,11 @@
 
 Name: Hoan Tran
 
-Bio: [link](https://linktr.ee/hoantran205)
-
 Cell: +84 978 39 41 43
 
-Website: [http://hano.cf/](https://www.hano.cf/)
+[Bio](https://linktr.ee/hoantran205)
+
+[Website](https://www.hano.cf/)
 
 ## Tìm mô hình toán học của hệ thống
 
