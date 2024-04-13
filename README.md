@@ -36,6 +36,10 @@ simulation_ex_4.slx        --> mô phỏng hệ bồn nước đơn
 
 simulation_ex_4_plot.m     --> vẽ plot kết quả mô phỏng bồn nước đơn
 
+simulation_ex_5.slx        --> mô phỏng hệ bồn nước đôi
+
+simulation_ex_5_plot.m     --> vẽ plot kết quả mô phỏng bồn nước đôi
+
 ## Demo
 
 Watch it on [YouTube](https://www.youtube.com/c/hano_tran)
